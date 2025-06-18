@@ -1,2 +1,7 @@
-# RM_Pagination_Filtering
-Implementing Pagination with Filtering and Sorting
+#Implementing Pagination with Filtering and Sorting.
+-
+#Project title: Pagination with Filtering and Sorting
+
+#Description:
+
+#Setup instructions:
